@@ -2,7 +2,7 @@
 A WIP GUI app to make GPU-P way easier!
 Based on : https://github.com/jamesstringerparsec/Easy-GPU-PV
 
-这是一个gpu-pv的.net6.03的可视化程序
+这是一个gpu-pv的.net6.03的可视化程序，基于https://github.com/jamesstringerparsec/Easy-GPU-PV
 
 # Usage
 The usage is simple, choose VM, choose GPU, slide the percentage you want to allocate of it and then press Add. 
