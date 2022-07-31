@@ -9,12 +9,13 @@ The usage is simple, choose VM, choose GPU, slide the percentage you want to all
 For drivers you press Mount VHD, when done it will open disk management where you'll assign a letter for the mounted drive (if it doesn't already has one) and then you choose that drive letter on the tool and press "install/update driver" button. 
 
 使用教程:
-选择虚拟机名称，
-选择gpu，
-选择虚拟磁盘并挂载 以后将会弹出磁盘管理器，
-请选择挂载的虚拟磁盘并右键分配盘符，
-在软件中选择盘符并点击安装驱动，
-等待十几秒将自动把宿主机驱动复制到虚拟机磁盘。
+
+选择虚拟机名称
+选择gpu
+选择虚拟磁盘并挂载 以后将会弹出磁盘管理器
+请选择挂载的虚拟磁盘并右键分配盘符
+在软件中选择盘符并点击安装驱动
+等待十几秒将自动把宿主机驱动复制到虚拟机磁盘
 
 by:夜明珠大神
 @YMZDS
