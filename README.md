@@ -11,10 +11,15 @@ For drivers you press Mount VHD, when done it will open disk management where yo
 使用教程:
 
 选择虚拟机名称
+
 选择gpu
+
 选择虚拟磁盘并挂载 以后将会弹出磁盘管理器
+
 请选择挂载的虚拟磁盘并右键分配盘符
+
 在软件中选择盘符并点击安装驱动
+
 等待十几秒将自动把宿主机驱动复制到虚拟机磁盘
 
 by:夜明珠大神
